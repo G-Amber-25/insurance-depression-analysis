@@ -68,7 +68,7 @@ While insurance status alone did not significantly predict depressive symptoms a
 └── report/                 # Final written report
 ```
 
-> **Note:** Raw NHIS data is publicly available at [IPUMS Health Surveys](https://healthsurveys.ipums.org/)
+> **Note:** Raw NHIS data is publicly available through IPUMS Health Surveys at https://nhis.ipums.org/nhis/ — free account registration is required to download
 
 ---
 
