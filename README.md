@@ -1,5 +1,3 @@
-# insurance-depression-analysis
-Logistic regression analysis of insurance status and depressive symptoms among 26,000+ U.S. adults using 2022 NHIS data | SAS Studio
 # Insurance Status and Depressive Symptoms Among U.S. Adults
 
 An analysis examining whether health insurance coverage is associated with depressive symptoms, using data from the 2022 National Health Interview Survey (NHIS).
