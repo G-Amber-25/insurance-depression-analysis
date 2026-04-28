@@ -62,7 +62,7 @@ While insurance status alone did not significantly predict depressive symptoms a
 ## 📁 Repository Contents
 
 ```
-├── README.md               # Project overview (you're here!)
+├── README.md               # Project overview 
 ├── analysis/               # SAS code used for the analysis
 ├── data/                   # Data source info (raw NHIS data not included due to size)
 └── report/                 # Final written report
