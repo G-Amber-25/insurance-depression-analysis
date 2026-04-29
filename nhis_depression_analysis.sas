@@ -1,3 +1,16 @@
+/*
+Project: Insurance Status and Depressive Symptoms Among U.S. Adults
+Course:  ANH 604 - Clinical Research Analytics
+Data:    2022 National Health Interview Survey (NHIS)
+Author:  Amber Garcia
+Date:    August 2025
+
+Description:
+Chi-square tests and logistic regression examining the association
+between insurance status and depressive symptoms, controlling for
+sex, age, and race/ethnicity.
+*/
+
 libname IPUMS "/home/u64002587/my_courses/ANH604";
 filename ASCIIDAT "/home/u64002587/my_courses/ANH604/nhis_00001.dat";
 
