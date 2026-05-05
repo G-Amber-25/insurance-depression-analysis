@@ -62,10 +62,10 @@ While insurance status alone did not significantly predict depressive symptoms a
 ## 📁 Repository Contents
 
 ```
-├── README.md               # Project overview 
-├── analysis/               # SAS code used for the analysis
-├── data/                   # Data source info (raw NHIS data not included due to size)
-└── report/                 # Final written report
+├── README.md                                    # Project overview 
+├── nhis_depression_analysis.sas                 # SAS code used for the analysis
+├── data                                         # Data source info (raw NHIS data not included due to size)
+└── insurance-depression-report.pdf              # Final written report
 ```
 
 > **Note:** Raw NHIS data is publicly available through IPUMS Health Surveys at https://nhis.ipums.org/nhis/ — free account registration is required to download
